@@ -58,7 +58,7 @@
 	--bg-1: #161a1e; /* dark buttons when clicked */
 	--bg-2: #3b4252; /* dark buttons */
 	--bg-3: #2e3440; /* spacing, secondary elements */
-	--bg-4: #1b1f23; /* main background color */
+	--bg-4: #161a1e; /* main background color */
 	--hover: hsla(220, 17%, 32%, 0.3); /* buttons when hovered */
 	--active: hsla(220, 17%, 32%, 0.5); /* channels and buttons when clicked or selected */
 	--message-hover: hsla(0, 0%, 0%, 0.1); /* messages when hovered */
